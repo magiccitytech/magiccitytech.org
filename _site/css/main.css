@@ -12,8 +12,9 @@ a {
     color: #a2193e; }
 
 header .site-title {
+  border-bottom: 1px solid #061908;
   color: #FDFCFB;
-  font-size: 5em;
+  font-size: 4em;
   font-weight: bold;
   line-height: 1em;
   text-decoration: none; }
